@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I am currently pursuing my bachelors<br>🌐 Workaholic (sorry, what's a weekend?)<br>🧠 I enjoy watching combat sports 
+🏫 I am currently pursuing my bachelors in Data Science and Business Intelligence<br>🏢 Intern Data Engineer at Marsh McLennan<br>🌐 Workaholic (sorry, what's a weekend?)<br>🧠 I enjoy watching combat sports 
 
 
 ## 🌐 Socials:
