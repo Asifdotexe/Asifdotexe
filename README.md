@@ -9,10 +9,9 @@
 # 📊 GitHub Stats:
 
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Asifdotexe&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
-<div><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asifdotexe&theme=merko&"/></div>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asifdotexe&show_icons=true&theme=merko&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asifdotexe&theme=merko&hide_border=true)<br/>
+<div><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asifdotexe&theme=merko"/></div>
 
 [![Asif's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asifdotexe&theme=merko)](https://github.com/Asifdotexe/github-readme-activity-graph)
 
