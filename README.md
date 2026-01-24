@@ -6,8 +6,7 @@
 🧠 I enjoy watching combat sports </br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sayyedasif/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/your_kaggle_profile) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayyedasif/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Dribbble&logoColor=white)](https://asifdotexe.github.io/portfolio/) 
 
 ## 🌱 Currently Learning:
@@ -45,9 +44,6 @@
 <div align="center">
   <a href="https://github.com/Asifdotexe">
     <img src="https://github-readme-stats.vercel.app/api?username=Asifdotexe&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Asif's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Asifdotexe">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asifdotexe&theme=merko&hide_border=true" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/Asifdotexe">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifdotexe&theme=merko&hide_border=true&layout=compact" alt="Most Used Language" />
