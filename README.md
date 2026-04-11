@@ -2,7 +2,7 @@
 
 ### Average Jupyter notebook developer
 
-- 🔭 I'm currently working on **[Theseus](asifdotexe.github.io/Theseus/)**
+- 🔭 I'm currently working on **[Theseus](https://github.com/Asifdotexe/Theseus)**
 
 - 🌱 I'm currently learning **Cybersecurity and Agentic Frameworks**
 
