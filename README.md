@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Data Science, AI and Cyber Security**
 
-- 📫 How to reach me **asifdotexe@gmail.com**
+- 📫 How to reach me **hello@sayyedasif.com**
 
 - ⚡ Fun fact **There are 10 types of people in the world: those who understand binary, and those who don't.**
 
