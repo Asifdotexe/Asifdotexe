@@ -11,4 +11,4 @@ if you're looking for my actual work, it lives on my [site](sayyedasif.com). i o
 if you want to talk data science, MMA, or any project that I worked on, shoot me an email at hello@sayyedasif.com 
 
 > "All complex systems are just a bunch of simple systems."
-> ~ George Hotz (`[@geohot](https://github.com/geohot)`)
+> ~ George Hotz ([@geohot](https://github.com/geohot))
